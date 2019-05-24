@@ -4,7 +4,7 @@ math = 100
 total = physics + chemistry + math
 per = total * 100 / 450
 
-print("pyhsics:", physics)
+print("physics:", physics)
 print("chemistry:", chemistry)
 print("maths:", math)
 print("-------------------------")
